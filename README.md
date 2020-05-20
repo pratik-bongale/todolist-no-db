@@ -1,4 +1,4 @@
-# TODO List App - No database
+# To-do List App - No database
 Create a to-do list for your home and work.
 
 ## Getting Started
@@ -45,7 +45,7 @@ Go to https://localhost:3000/work
   - Handle get and post requests from the backend nodeJs script
 
 ## Author
-* **Pratik Bongale** - *Initial work* - [Todo list v1](https://github.com/pratik-bongale/Todo-list-no-db)
+* **Pratik Bongale** - *Initial work* - [Todo list v1](https://github.com/pratik-bongale/Todolist-no-db)
 
 
 ## Acknowledgments
