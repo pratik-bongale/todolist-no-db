@@ -2,7 +2,7 @@
 Create a to-do list for your home and work.
 
 ## Getting Started
-- The App is currently hosted on Heroku. For a quick peek visit [To-do list]().
+- The App is currently hosted on Heroku. For a quick peek visit [To-do list](https://protected-fortress-10453.herokuapp.com/).
 - To build this project locally, follow steps given below.
 
 ### Prerequisites
